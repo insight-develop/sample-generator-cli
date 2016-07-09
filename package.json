@@ -1,0 +1,24 @@
+{
+  "name": "bacon-cli",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insight-develop/bacon-cli.git"
+  },
+  "keywords": [
+    "generator",
+    "nodejs",
+    "cli"
+  ],
+  "author": "insight developers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/insight-develop/bacon-cli/issues"
+  },
+  "homepage": "https://github.com/insight-develop/bacon-cli#readme"
+}
