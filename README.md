@@ -1,5 +1,15 @@
 # Tutorial de como criar seu próprio CLI (Command line interface)
 
+- [Preparativos](#preparativos)
+  - [Nossas motivações](#nossas-motivações)
+  - [Vamos ao que interessa](#vamos-ao-que-interessa)
+  - [Test drive](#test-drive)
+  - [Pré-requisitos](#pré-requisitos)
+  - [Estrutura de pastas](#estrutura-de-pastas)
+  - [Package.json](#packagejson)
+- [Código fonte](#código-fonte)
+  - [Cabeçalho](#cabeçalho)
+
 ## Preparativos
 ### Nossas motivações
 Recentemente surgiu a necessidade de criarmos rapidamente nossa arquitetura de soluções web, e era muito custoso e chato criarmos manualmente. Eu particularmente tinha curiosidade de saber como o Yeoman funcionava e isso me moveu e nos inspirou criar algo parecido. 
@@ -16,13 +26,13 @@ Bom antes de começar, baixe o gerador e faça alguns testes. Para funcionar pro
 - [node.js]
 - [npm]
 
-### Primeiro crie a estrutura de pastas:
+### Estrutura de pastas:
 
 Crie a pasta do seu projeto e crie as seguintes subpastas:
   - bin
   - lib
 
-### Crie o package.json
+### Package.json
 Abra o bash ou algum prompt e digite:
 ```sh
 > npm init
