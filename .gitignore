@@ -1,0 +1,8 @@
+# config gitignore
+
+#folders
+node_modules/
+.idea/
+
+# other files
+*.log
